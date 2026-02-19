@@ -13,7 +13,8 @@ Builder of tools for the AzerothCore ecosystem.  Check out my repositories for s
 
 A modern desktop editor for creating and managing AzerothCore database content.
 
-[![Latest Release](https://img.shields.io/github/v/release/KrowtennetworK/AzerothCoreCreator?include_prereleases=true)](https://github.com/KrowtennetworK/AzerothCoreCreator/releases)
+[![Latest Release](https://img.shields.io/github/v/release/KrowtennetworK/AzerothCoreCreator)](https://github.com/KrowtennetworK/AzerothCoreCreator/releases)
+
 
 [![Discord](https://img.shields.io/discord/736685134492729475?logo=discord&logoColor=white)](https://discord.gg/nVFp9ec)
 
