@@ -3,7 +3,7 @@
   KrowtennetworK
 </h1>
 
-Builder of tools for the AzerothCore ecosystem.
+Builder of tools for the AzerothCore ecosystem.  Check out my repositories for some fun bots and programs!
 
 ---
 
