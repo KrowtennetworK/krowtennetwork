@@ -26,6 +26,7 @@ A modern desktop editor for creating and managing AzerothCore database content.
 - Database editors for WoW 3.3.5a
 - Automation utilities
 - Server-side workflow improvements
+- Fun Discord Bots for private servers
 
 ---
 
