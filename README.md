@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://raw.githubusercontent.com/KrowtennetworK/AzerothCoreCreator/main/assets/logo-acore.png" width="42" />
+  <img src="assets/logo-acore.png" width="48" height="48" style="vertical-align: left;" />
   KrowtennetworK
 </h1>
 
