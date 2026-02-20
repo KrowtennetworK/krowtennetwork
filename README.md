@@ -9,16 +9,19 @@ Builder of tools for the AzerothCore ecosystem.  Check out my repositories for s
 
 ## 🚀 Featured Project
 
-### AzerothCore Creator
-
-A modern desktop editor for creating and managing AzerothCore database content.
+### 🚧 AzerothCore Creator Currently in Beta 🚧
 
 [![Latest Release](https://img.shields.io/github/v/release/KrowtennetworK/AzerothCoreCreator?include_prereleases&labelColor=%23ED2F21&color=%23000000)](https://github.com/KrowtennetworK/AzerothCoreCreator/releases/latest)
 
+> ⚠️ Be sure to run **Setup.exe** to enable automatic updates.
+
+---
+
+## 💬 Community
+
+Join the Discord:  If you are looking for a private server to play on, we have an exclusive invite only server!
 
 [![Discord](https://img.shields.io/discord/736685134492729475?style=plastic&logo=discord&logoColor=white&labelColor=%235865F2)](https://discord.gg/nVFp9ec)
-
-> ⚠️ Be sure to run **Setup.exe** to enable automatic updates.
 
 ---
 
@@ -38,14 +41,6 @@ A modern desktop editor for creating and managing AzerothCore database content.
 - Production-ready tooling
 - Hardcoded support for AzerothCore
 - Modern UI over legacy Trinity tools
-
----
-
-## 💬 Community
-
-Join the Discord:
-
-👉 https://discord.gg/nVFp9ec
 
 ---
 
