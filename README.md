@@ -16,7 +16,7 @@ A modern desktop editor for creating and managing AzerothCore database content.
 [![Latest Release](https://img.shields.io/github/v/release/KrowtennetworK/AzerothCoreCreator?include_prereleases&labelColor=%23ED2F21&color=%23000000)](https://github.com/KrowtennetworK/AzerothCoreCreator/releases/latest)
 
 
-[![Discord](https://img.shields.io/discord/736685134492729475?logo=discord&logoColor=white)](https://discord.gg/nVFp9ec)
+[![Discord](https://img.shields.io/discord/736685134492729475?style=plastic&logo=discord&logoColor=white&labelColor=%235865F2)](https://discord.gg/nVFp9ec)
 
 > ⚠️ Be sure to run **Setup.exe** to enable automatic updates.
 
