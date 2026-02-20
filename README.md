@@ -3,7 +3,9 @@
   KrowtennetworK
 </h1>
 
-Home of the official AzerothCore Creator!  Check out my repositories for some fun bots and programs!  We also have a private 3.3.5a custom private server.  Check out the discord if youre interested!
+- Home of the official **AzerothCore Creator**!
+- Check out my repositories for some fun bots and programs!
+- We also have a private 3.3.5a custom private server.  Check out the discord if youre interested!
 
 ---
 
