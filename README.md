@@ -3,7 +3,7 @@
   KrowtennetworK
 </h1>
 
-Builder of tools for the AzerothCore ecosystem.  Check out my repositories for some fun bots and programs!
+Home of the official AzerothCore Creator!  Check out my repositories for some fun bots and programs!  We also have a private 3.3.5a custom private server.  Check out the discord if youre interested!
 
 ---
 
@@ -19,7 +19,7 @@ Builder of tools for the AzerothCore ecosystem.  Check out my repositories for s
 
 ## 💬 Community
 
-Join the Discord:  If you are looking for a private server to play on, we have an exclusive invite only server!
+Join the Discord:
 
 [![Discord](https://img.shields.io/discord/736685134492729475?style=plastic&logo=discord&logoColor=white&labelColor=%235865F2)](https://discord.gg/nVFp9ec)
 
